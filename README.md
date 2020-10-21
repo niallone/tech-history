@@ -1,147 +1,97 @@
 ## About 300 years, chronilogically ordered by birthdate.
 _Put this thogether a few years ago - additions / alterations welcome._
 
-Daniel Bernoulli
-- Daniel Bernoulli was born on 8th February in the year 1700 in Gronin- gen, Dutch Republic.
+### Daniel Bernoulli
+- Daniel Bernoulli was born on 8th February in the year 1700 in Groningen, Dutch Republic.
 - When he was born, his father, Johann Bernoulli, was the chairperson of mathematics in Groningen.
 - His elder brother and his uncle were also known mathematicians which pointed towards Daniel Bernoulli to be raised in a strong mathematics environment.
-- It was shocking for Daniel Bernoulli that his father forced him into a busi- ness career.
+- It was shocking for Daniel Bernoulli that his father forced him into a business career.
 - At the age of 13, Daniel Bernoulli was sent to the Basel University to study philosophy and logic.
 - Daniel Bernoulli graduated from the Basel University in the year 1716.
-- Daniel Bernoulli also grew up to be a great mathematician being in such a surrounding and found various sub-subjects to mathematics on his re-
-search and studies.
-- Daniel Bernoulli soon discovered the vividly practiced formulas of sta-
-tistics and probability.
-- Daniel Bernoulli further enhanced his studies and tried connecting
-mathematics with mechanics.
-- He was soon able to develop the theory of fluid mechanics and the con-
-servation of energy which is sufficient to describe mathematics and me- chanics effectively.
-
-
+- Daniel Bernoulli also grew up to be a great mathematician being in such a surrounding and found various sub-subjects to mathematics on his research and studies.
+- Daniel Bernoulli soon discovered the vividly practiced formulas of statistics and probability.
+- Daniel Bernoulli further enhanced his studies and tried connecting mathematics with mechanics.
+- He was soon able to develop the theory of fluid mechanics and the conservation of energy which is sufficient to describe mathematics and mechanics effectively.
 - His work in the research of energy conservation is used n the modern world with the formula;
 - 1/2 〖pu〗^2+P=Constant
-- Daniel Bernoulli was a Polymath, a person with interest in various sub-
-jects, yet his main focus was to connect each with mathematics.
-- In the world of science, Daniel Bernoulli was the person to develop the relationship between blood flow and its pressure speed, which was
-measured through fluid mechanics.
-- The main findings of Daniel Bernoulli which have helped the humans of
-20th century include the development of carburetor and airplane wing.
-- Daniel Bernoulli trained his children (sons) to work for the educational
-field accordingly.
-- Daniel Bernoulli wrote his first book in the year 1738, which was named
-Specimen theoriae novae de mensura sortis
-- In the year 1738, Daniel Bernoulli also developed the Kinetic Theory of
-gases and made collaborative efforts with Boyle’s law in order to make
-things easier to understand.
-- Daniel Bernoulli was inspired by Newton and gave his findings relevant
-importance and further leaded with his findings with the studies of New-
-ton.
-- Daniel Bernoulli was well recognized within his life and won multiple re-
-spect and recognition awards.
-- Daniel Bernoulli died aged 81, on 17th March in the year 1782 in Basel,
-Republic of Swiss.
+- Daniel Bernoulli was a Polymath, a person with interest in various subjects, yet his main focus was to connect each with mathematics.
+- In the world of science, Daniel Bernoulli was the person to develop the relationship between blood flow and its pressure speed, which was measured through fluid mechanics.
+- The main findings of Daniel Bernoulli which have helped the humans of 20th century include the development of carburetor and airplane wing.
+- Daniel Bernoulli trained his children (sons) to work for the educational field accordingly.
+- Daniel Bernoulli wrote his first book in the year 1738, which was named Specimen theoriae novae de mensura sortis
+- In the year 1738, Daniel Bernoulli also developed the Kinetic Theory of gases and made collaborative efforts with Boyle’s law in order to make things easier to understand.
+- Daniel Bernoulli was inspired by Newton and gave his findings relevant importance and further leaded with his findings with the studies of Newton.
+- Daniel Bernoulli was well recognized within his life and won multiple respect and recognition awards.
+- Daniel Bernoulli died aged 81, on 17th March in the year 1782 in Basel, Republic of Swiss.
 
-
-Benjamin Franklin
+### Benjamin Franklin
 - Benjamin Franklin was an American Polymath who is referred as being amongst the fathers of Nation.
-- Benjamin Franklin was born on 17th January in the year 1706 in Ameri- ca.
+- Benjamin Franklin was born on 17th January in the year 1706 in America.
 - Before any of his works, Benjamin Franklin was the founder of American and made efforts for independence.
 - He was the leading writer, author, printer, politician, scientist, diplomat of America
 - The work of Benjamin’s writing and printing started in 1729 when he bought a Newspaper, The Pennsylvania Gazette.
-- He printed the political concepts within the newspaper where his inter- est laid the most.
-- Ten years, 1720-1730, Benjamin Franklin worked greatly for public bene- fits and social causes.
+- He printed the political concepts within the newspaper where his interest laid the most.
+- Ten years, 1720-1730, Benjamin Franklin worked greatly for public benefits and social causes.
 - Benjamin Franklin was amongst the initial founders of prevention from fire in the period 1730-1740.
-- In order to make America a better place to live, Benjamin Franklin initiat- ed the environmental clean-up program within the streets of America.
-- Benjamin Franklin was appointed to be the first president of Academy
-and College of Philadelphia which he further headed in order to form a
-university.
-- Seeing his political influences, Benjamin Franklin was selected as the
-deputy post general for the British colonies in 1953.
-
-
+- In order to make America a better place to live, Benjamin Franklin initiated the environmental clean-up program within the streets of America.
+- Benjamin Franklin was appointed to be the first president of Academy and College of Philadelphia which he further headed in order to form a university.
+- Seeing his political influences, Benjamin Franklin was selected as the deputy post general for the British colonies in 1953.
 - Benjamin Franklin was nominated as the 6th President of Pennsylvania in the period 1785-1788.
-- He further carried out his political practices through his son being pro- posed to be the governor of New Jersey.
+- He further carried out his political practices through his son being proposed to be the governor of New Jersey.
 - Being a writer, Benjamin Franklin wrote a couple of published books, amongst which he famous include ‘Poor Richard’s Almanac’ which bought him sufficient recognition and wealth.
 - Benjamin Franklin had an innovative mindset and he was well-known for his discoveries regarding lightning rod, bifocals and the Franklin stove.
-- Benjamin Franklin was the founder of various civic organizations includ-
-ing Library Company in the year 1757.
-- He also introduced various physics theories as he was a Scientist, and
-discovered electricity and its efficient generation.
-- Being a Polymath, Benjamin Franklin served various fields of interest in-
-cluding science, physics, politics and mathematics.
-- Benjamin Franklin died at the age of 80, on 17th April in the year 1790 in
-Pennsylvania, U.S.
-- His teachings and studies have been preserved and available to be
-read and used in related theories globally.
+- Benjamin Franklin was the founder of various civic organizations including Library Company in the year 1757.
+- He also introduced various physics theories as he was a Scientist, and discovered electricity and its efficient generation.
+- Being a Polymath, Benjamin Franklin served various fields of interest including science, physics, politics and mathematics.
+- Benjamin Franklin died at the age of 80, on 17th April in the year 1790 in Pennsylvania, U.S.
+- His teachings and studies have been preserved and available to be read and used in related theories globally.
 
-
-Leonhard Euler
+### Leonhard Euler
 - Leonhard Euler was born on 15th April in the year 1707 in Basel, Switzerland (Debnath, 2009)
 - He was a famous Swiss physicist, astronomer, engineer, logician and mathematician.
-- Leonhard made important contributions towards mathematics with relat- able discoveries such as calculus and the graph theory.
+- Leonhard made important contributions towards mathematics with relatable discoveries such as calculus and the graph theory.
 - His works in the field of fluid dynamics, mechanics and astronomy also earned him great recognition.
 - Leonhard Euler was ranked amongst the highly eminent mathematicians of the 18th century (Debnath, 2009)
 - The work he has collected and delivered for the mankind is more than any of the contributions of any scientist in history.
 - His mathematics was designed in a different way, such that easy to be applied within public affairs and technology.
-- In the year 1727, Euler was made the associate of St. Petersburg Acad- emy of Sciences
+- In the year 1727, Euler was made the associate of St. Petersburg Academy of Sciences
 - With due hard work and extraordinary efforts, Euler lost the sight of one eye in the year 1735
 - The formula for trigonometry was also developed by Leonhard Euler (Debnath, 2009)
 - Euler’s conclusions regarding the solar system were efficient enough to assist the British Admiralty for the calculation of lunar tables.
-
-
 - Euler also published the book, Institutiones Calculi Differentials in the year 1755 which served for the various prototypes of calculus.
 - In the year 1766, Euler was invited by Catherine II to Russia.
-- Because of the loss of one eye’s sight, Euler’s productivity started to de-
-cline
-- The theory and a brighter concept of lunar motion is also amongst the
-important discoveries of Euler (Debnath, 2009)
-- As compared to any mathematician of history, Euler had an increased
-pervasive pedagogical influence
-- Although in Russia his influence was limited, yet he managed to set up a
-vivid educational base to teach mathematics.
-- His eye sight became further fatal which caused his cataracts to be com-
-pletely damaged.
-- This further lead towards mental disabilities and Euler was finally bought
-to bed rest.
-- Euler died on 18th September 1783 in Saint Petersburg, Russia (Deb-
-nath, 2009)
+- Because of the loss of one eye’s sight, Euler’s productivity started to decline
+- The theory and a brighter concept of lunar motion is also amongst the important discoveries of Euler (Debnath, 2009)
+- As compared to any mathematician of history, Euler had an increased pervasive pedagogical influence
+- Although in Russia his influence was limited, yet he managed to set up a vivid educational base to teach mathematics.
+- His eye sight became further fatal which caused his cataracts to be completely damaged.
+- This further lead towards mental disabilities and Euler was finally bought to bed rest.
+- Euler died on 18th September 1783 in Saint Petersburg, Russia (Debnath, 2009)
 
-
-Carl Linnaeus
+### Carl Linnaeus
 - Carl Linnaeus or Carl Von Linne was born on 23rd May in the year 1707 in Rashult, Sweden.
 - Through his profession, he was identified as the highly qualified Swedish physician, botanist and zoologist.
 - Carl Linnaeus was also called as ‘the father of taxonomy’.
-- His findings that have been published are mostly in Latin with his name
-been changed to Latin as Carolus Linnaeus.
-- In his childhood and teenage life, Linnaeus received his education at the
-Uppsala University where he further pursued his career as a botany lec-
-turer in the year 1730 (Anderson, 2009)
-- His first ever writing, namely ‘Systema Naturae’ was published in the
-year 1738 in Netherlands.
-- Linnaeus spent most of his time in the study of plants and animals for
-which he had been travelling great miles to gather relevant and suffi-
-cient data.
-- By the year 1778, Carl Linnaeus was believed as amongst the most ac-
-claimed scientists.
-- In early 1735, Carl Linnaeus set off for Russia where he intended to pur-
-sue with his medical studies.
-- Despite of the above discussed achievements of Linnaeus, in his early
-bought up age he was being groomed to be a churchman just like his parents (Anderson, 2009)
-
-
+- His findings that have been published are mostly in Latin with his name been changed to Latin as Carolus Linnaeus.
+- In his childhood and teenage life, Linnaeus received his education at the Uppsala University where he further pursued his career as a botany lecturer in the year 1730 (Anderson, 2009)
+- His first ever writing, namely ‘Systema Naturae’ was published in the year 1738 in Netherlands.
+- Linnaeus spent most of his time in the study of plants and animals for which he had been travelling great miles to gather relevant and sufficient data.
+- By the year 1778, Carl Linnaeus was believed as amongst the most acclaimed scientists.
+- In early 1735, Carl Linnaeus set off for Russia where he intended to pursue with his medical studies.
+- Despite of the above discussed achievements of Linnaeus, in his early bought up age he was being groomed to be a churchman just like his parents (Anderson, 2009)
 - His interest for flowers, especially in the field of botany, grew and could be supported with his published book, namely Flora Laponica, in the year 1737.
 - In the year 1739, Linnaeus married Sara Morea, who was the daughter of a well-known physician.
 - In the year 1741, Linnaeus succeeded for the chair of medicine which he further exchanged with the chair of botany.
 - The transformation of his name, as Carl Von Linne was knighted to him in the year 1755.
 - The botanical garden developed by Linnaeus can be visited in Uppsala (Anderson, 2009)
-- The work and the contributions of Carl Linnaeus bought him greater re- sponses and respect and recognition.
+- The work and the contributions of Carl Linnaeus bought him greater responses and respect and recognition.
 - He officially retired from the active teaching profession, yet continued contributions for the students in minimal amount.
 - The decline of Carl Linnaeus started due to his worsening illness which remained unidentified for a couple of years.
 - Car Linnaeus was diagnosed with being suffering from the Uppsala fever.
-- He later died at the age of 70, on 10th January in the year 1778 (Ander- son, 2009)
+- He later died at the age of 70, on 10th January in the year 1778 (Anderson, 2009)
 
 
-David Hume
+### David Hume
 - David Hume was a well-known Scottish economist, historian, enlighten- ment philosopher and an essayist from the UK (Mossner, 2001)
 - David Hume was the younger descendant of the lord of Ninewells, Joseph Hume.
 - David Hume’s mother, Catherine, was the daughter of the president of Scottish Court sessions, Sir David Falconer.
