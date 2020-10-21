@@ -1,4 +1,4 @@
-## Chronilogically ordered by birthdate.
+## About 300 years, chronilogically ordered by birthdate.
 _Put this thogether a few years ago - additions / alterations welcome._
 
 Daniel Bernoulli
